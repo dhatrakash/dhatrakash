@@ -47,7 +47,7 @@
 
 <div align="center">
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=dhatrakash&show_icons=true&theme=dark&hide_border=true&locale=en&layout=compact" alt="dhatrakash" /></p>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=awsmankit&show_icons=true&theme=dark&hide_border=true&locale=en" alt="awsmankit" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dhatrakash&show_icons=true&theme=dark&hide_border=true&locale=en" alt="dhatrakash" /></p>
 </div>
 
 <h2 align="center">✍️ Random Dev Quote</h2>
