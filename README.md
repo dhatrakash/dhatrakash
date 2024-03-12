@@ -11,7 +11,7 @@
 
 <p align="left">
   <a href="https://twitter.com/" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-Follow%20%40awsmankit_-1DA1F2?style=for-the-badge&logo=twitter" alt="Follow me on Twitter" />
+    <img src="https://img.shields.io/badge/Twitter-Follow%20%40ashdhatrak-1DA1F2?style=for-the-badge&logo=twitter" alt="Follow me on Twitter" />
   </a>
 </p>
 
