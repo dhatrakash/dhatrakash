@@ -4,13 +4,13 @@
 
 
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Ankit+Singh!;" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Aishwarya+Dhatrak!;" />
 </h1>
 
 <br>
 
 <p align="left">
-  <a href="https://twitter.com/awsmankit_" target="_blank">
+  <a href="https://twitter.com/" target="_blank">
     <img src="https://img.shields.io/badge/Twitter-Follow%20%40awsmankit_-1DA1F2?style=for-the-badge&logo=twitter" alt="Follow me on Twitter" />
   </a>
 </p>
